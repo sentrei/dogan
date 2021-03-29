@@ -1,3 +1,9 @@
 {
-  "ignores": ["@commitlint/*", "@semantic-release/*", "@sentrei/*"]
+  "ignores": [
+    "@commitlint/*",
+    "@semantic-release/*",
+    "@sentrei/*",
+    "eslint-*",
+    "npm-package-json-lint-config-sentrei"
+  ]
 }
