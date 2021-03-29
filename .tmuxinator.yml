@@ -1,0 +1,7 @@
+name: gan-dev
+root: ~/ghq/github.com/sentrei/dogan
+attach: true
+windows:
+  - zsh: neofetch
+  - zsh: neofetch
+  - zsh: neofetch

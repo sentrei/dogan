@@ -1,0 +1,24 @@
+{
+  "name": "@doganjs/core",
+  "version": "1.0.0",
+  "private": false,
+  "homepage": "https://github.com/sentrei/dogan",
+  "bugs": {
+    "url": "https://github.com/sentrei/dogan/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sentrei/dogan.git"
+  },
+  "license": "MIT",
+  "author": "Sentrei, Inc.",
+  "scripts": {
+    "fix": "cd ../.. && yarn run fix"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  }
+}

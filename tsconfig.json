@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "rootDir": "."
+  },
+  "exclude": ["node_modules"],
+  "extends": "@sentrei/tsconfig",
+  "include": ["tsconfig.json"]
+}

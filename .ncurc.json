@@ -1,0 +1,4 @@
+{
+  "reject": ["husky", "react", "react-dom"],
+  "upgrade": true
+}
